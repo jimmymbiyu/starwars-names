@@ -1,0 +1,27 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "Get random Start Wars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmymbiyu/starwars-names.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Ndung'u Mbiyu <jimmymbiyu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimmymbiyu/starwars-names/issues"
+  },
+  "homepage": "https://github.com/jimmymbiyu/starwars-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
