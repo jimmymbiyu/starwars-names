@@ -29,7 +29,8 @@ Details on semantic versioning can be found here - https://docs.npmjs.com/gettin
 Follow the following steps to complete the npm configuration.
 - Create an account at http://npmjs.com.
 - Open the terminal and type the command `npm adduser`. You shall be prompted for your username, password and email. An auth token and npm rc will be generated.
-- Create a `package.json` file by running the command `npm init`. This will walk you through creating the `package.json` file and has sensible defaults. 
+- Create a `package.json` file by running the command `npm init`. This will walk you through creating the `package.json` file and has sensible defaults.
+![npm init](docs/images/npm-init.png)
  
 A few terms to note while setting up the `package.json` file are.
 - `entry point`: the name that will be used to resolve the module in require statements.
